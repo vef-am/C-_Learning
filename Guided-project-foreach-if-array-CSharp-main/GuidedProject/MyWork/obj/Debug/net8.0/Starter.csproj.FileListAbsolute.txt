@@ -1,0 +1,14 @@
+F:\C#_Learning\Guided-project-foreach-if-array-CSharp-main\GuidedProject\MyWork\bin\Debug\net8.0\Starter.exe
+F:\C#_Learning\Guided-project-foreach-if-array-CSharp-main\GuidedProject\MyWork\bin\Debug\net8.0\Starter.deps.json
+F:\C#_Learning\Guided-project-foreach-if-array-CSharp-main\GuidedProject\MyWork\bin\Debug\net8.0\Starter.runtimeconfig.json
+F:\C#_Learning\Guided-project-foreach-if-array-CSharp-main\GuidedProject\MyWork\bin\Debug\net8.0\Starter.dll
+F:\C#_Learning\Guided-project-foreach-if-array-CSharp-main\GuidedProject\MyWork\bin\Debug\net8.0\Starter.pdb
+F:\C#_Learning\Guided-project-foreach-if-array-CSharp-main\GuidedProject\MyWork\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#_Learning\Guided-project-foreach-if-array-CSharp-main\GuidedProject\MyWork\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+F:\C#_Learning\Guided-project-foreach-if-array-CSharp-main\GuidedProject\MyWork\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+F:\C#_Learning\Guided-project-foreach-if-array-CSharp-main\GuidedProject\MyWork\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+F:\C#_Learning\Guided-project-foreach-if-array-CSharp-main\GuidedProject\MyWork\obj\Debug\net8.0\Starter.dll
+F:\C#_Learning\Guided-project-foreach-if-array-CSharp-main\GuidedProject\MyWork\obj\Debug\net8.0\refint\Starter.dll
+F:\C#_Learning\Guided-project-foreach-if-array-CSharp-main\GuidedProject\MyWork\obj\Debug\net8.0\Starter.pdb
+F:\C#_Learning\Guided-project-foreach-if-array-CSharp-main\GuidedProject\MyWork\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+F:\C#_Learning\Guided-project-foreach-if-array-CSharp-main\GuidedProject\MyWork\obj\Debug\net8.0\ref\Starter.dll
