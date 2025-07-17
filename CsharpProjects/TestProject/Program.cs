@@ -1,15 +1,13 @@
-﻿int[] numbers = { 4, 8, 15, 16, 23, 42 };
-bool found = false;
-int total = 0;
-
-foreach (int number in numbers)
+﻿for (int i = 1; i <= 100; i++)
 {
-    total += number;
-    if (number == 42)
-        found = true;
+    Console.Write(i);
+
+    if (i % 3 == 0 && i % 5 == 0)
+        Console.WriteLine(" - FizzBuzz");
+    else if (i % 3 == 0)
+        Console.WriteLine(" - Fizz");
+    else if (i % 5 == 0)
+        Console.WriteLine(" - Buzz");
+    else
+        Console.WriteLine();
 }
-
-if (found)
-    Console.WriteLine("Set contains 42");
-
-Console.WriteLine($"Total: {total}");
