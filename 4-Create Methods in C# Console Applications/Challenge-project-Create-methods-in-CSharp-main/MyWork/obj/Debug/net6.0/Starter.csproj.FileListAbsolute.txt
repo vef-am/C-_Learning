@@ -1,0 +1,15 @@
+C:\MyProgrammingWork\C-_Learning\4-Create Methods in C# Console Applications\Challenge-project-Create-methods-in-CSharp-main\MyWork\bin\Debug\net6.0\Starter.exe
+C:\MyProgrammingWork\C-_Learning\4-Create Methods in C# Console Applications\Challenge-project-Create-methods-in-CSharp-main\MyWork\bin\Debug\net6.0\Starter.deps.json
+C:\MyProgrammingWork\C-_Learning\4-Create Methods in C# Console Applications\Challenge-project-Create-methods-in-CSharp-main\MyWork\bin\Debug\net6.0\Starter.runtimeconfig.json
+C:\MyProgrammingWork\C-_Learning\4-Create Methods in C# Console Applications\Challenge-project-Create-methods-in-CSharp-main\MyWork\bin\Debug\net6.0\Starter.dll
+C:\MyProgrammingWork\C-_Learning\4-Create Methods in C# Console Applications\Challenge-project-Create-methods-in-CSharp-main\MyWork\bin\Debug\net6.0\Starter.pdb
+C:\MyProgrammingWork\C-_Learning\4-Create Methods in C# Console Applications\Challenge-project-Create-methods-in-CSharp-main\MyWork\obj\Debug\net6.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProgrammingWork\C-_Learning\4-Create Methods in C# Console Applications\Challenge-project-Create-methods-in-CSharp-main\MyWork\obj\Debug\net6.0\Starter.AssemblyInfoInputs.cache
+C:\MyProgrammingWork\C-_Learning\4-Create Methods in C# Console Applications\Challenge-project-Create-methods-in-CSharp-main\MyWork\obj\Debug\net6.0\Starter.AssemblyInfo.cs
+C:\MyProgrammingWork\C-_Learning\4-Create Methods in C# Console Applications\Challenge-project-Create-methods-in-CSharp-main\MyWork\obj\Debug\net6.0\Starter.csproj.CoreCompileInputs.cache
+C:\MyProgrammingWork\C-_Learning\4-Create Methods in C# Console Applications\Challenge-project-Create-methods-in-CSharp-main\MyWork\obj\Debug\net6.0\Starter.sourcelink.json
+C:\MyProgrammingWork\C-_Learning\4-Create Methods in C# Console Applications\Challenge-project-Create-methods-in-CSharp-main\MyWork\obj\Debug\net6.0\Starter.dll
+C:\MyProgrammingWork\C-_Learning\4-Create Methods in C# Console Applications\Challenge-project-Create-methods-in-CSharp-main\MyWork\obj\Debug\net6.0\refint\Starter.dll
+C:\MyProgrammingWork\C-_Learning\4-Create Methods in C# Console Applications\Challenge-project-Create-methods-in-CSharp-main\MyWork\obj\Debug\net6.0\Starter.pdb
+C:\MyProgrammingWork\C-_Learning\4-Create Methods in C# Console Applications\Challenge-project-Create-methods-in-CSharp-main\MyWork\obj\Debug\net6.0\Starter.genruntimeconfig.cache
+C:\MyProgrammingWork\C-_Learning\4-Create Methods in C# Console Applications\Challenge-project-Create-methods-in-CSharp-main\MyWork\obj\Debug\net6.0\ref\Starter.dll

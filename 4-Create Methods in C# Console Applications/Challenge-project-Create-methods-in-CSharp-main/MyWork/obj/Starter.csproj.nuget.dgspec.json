@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MyProgrammingWork\\C-_Learning\\CsharpProjects\\TestProject\\TestProject.csproj": {}
+    "C:\\MyProgrammingWork\\C-_Learning\\4-Create Methods in C# Console Applications\\Challenge-project-Create-methods-in-CSharp-main\\MyWork\\Starter.csproj": {}
   },
   "projects": {
-    "C:\\MyProgrammingWork\\C-_Learning\\CsharpProjects\\TestProject\\TestProject.csproj": {
+    "C:\\MyProgrammingWork\\C-_Learning\\4-Create Methods in C# Console Applications\\Challenge-project-Create-methods-in-CSharp-main\\MyWork\\Starter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyProgrammingWork\\C-_Learning\\CsharpProjects\\TestProject\\TestProject.csproj",
-        "projectName": "TestProject",
-        "projectPath": "C:\\MyProgrammingWork\\C-_Learning\\CsharpProjects\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "C:\\MyProgrammingWork\\C-_Learning\\4-Create Methods in C# Console Applications\\Challenge-project-Create-methods-in-CSharp-main\\MyWork\\Starter.csproj",
+        "projectName": "Starter",
+        "projectPath": "C:\\MyProgrammingWork\\C-_Learning\\4-Create Methods in C# Console Applications\\Challenge-project-Create-methods-in-CSharp-main\\MyWork\\Starter.csproj",
         "packagesPath": "C:\\Users\\veren\\.nuget\\packages\\",
-        "outputPath": "C:\\MyProgrammingWork\\C-_Learning\\CsharpProjects\\TestProject\\obj\\",
+        "outputPath": "C:\\MyProgrammingWork\\C-_Learning\\4-Create Methods in C# Console Applications\\Challenge-project-Create-methods-in-CSharp-main\\MyWork\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\veren\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net9.0"
+          "net8.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -41,8 +41,8 @@
         "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
