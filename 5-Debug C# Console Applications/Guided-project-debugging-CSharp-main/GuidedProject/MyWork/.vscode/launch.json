@@ -10,11 +10,11 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "../Users/veren/AppData/Local/Temp/dotnet/runfile/Program-1988baceffdcbc4a64be431f61c87e16c2c2f6e4c5ee218d1693ff740cb0e9ea/bin/debug/Program.dll",
+            "program": "${workspaceFolder}/bin/Debug/net8.0/Starter.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/5-Debug C# Console Applications/Guided-project-debugging-CSharp-main/GuidedProject/MyWork",
+            "cwd": "${workspaceFolder}",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
-            "console": "internalConsole",
+            "console": "integratedTerminal",
             "stopAtEntry": false
         },
         {
